@@ -1,0 +1,34 @@
+@charset "URF-8";
+
+#principal {
+	background-color: #EDC9FF;
+	border: double
+}
+
+#barra {
+	background-color: #F6A6EE;
+	border:double; 
+	color: #CE42AE;
+	font-family: Calisto MT;
+}
+
+ .CabeceraPágina {
+	background-color: #EFCFFF;
+	border:double
+	}
+	
+	body {
+		color: purple;
+		font-family: Century Gothic;
+		}
+	
+	#barra2 {
+	background-color: #F6A6EE;
+	border:double; 
+	color: #CE42AE;
+	font-family: Agency FB;
+}
+	#PieDePagina {
+		color: #4F2E74;
+		font-family: Agency FB
+	}
